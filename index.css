@@ -50,13 +50,13 @@ body {
 
 
 .listItem:hover {
-    animation: shift 3s forwards;
+    animation: shift 1s forwards;
 }
 
 @keyframes shift {
     from {opacity: 0;}
     from {height: 50px;}
-    to {height: 60px;}
+    to {height: 52px;}
     to {opacity: 1;}
 }
 
